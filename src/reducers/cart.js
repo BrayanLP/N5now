@@ -5,7 +5,7 @@ const initialState = {
 };
 function cartReducer(carts = initialState, action) {
     const { type, payload } = action;
-    const total = 0;
+    let total = 0;
     if(localStorage.getItem('products')){
         total = JSON.parse(localStorage.getItem('products')).reduce((result, snap) => result + snap.price*snap.quantity, 0);
     }
