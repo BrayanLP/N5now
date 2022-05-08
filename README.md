@@ -17,7 +17,7 @@ https://dribbble.com/shots/8765916-Food-DeliveryPlatform/attachments/987690?mode
 - [x] Captura de eventos de elementos html
 - [x] Manejo del estado en React por medio de estados globales. (Context, Redux, etc)
 - [x] Styled Components
-- [ ] Conocimiento en pruebas unitarias
+- [ ] Conocimiento en pruebas unitarias (Conozco avanzado pero no me dio el tiempo)
 - [x] Conocimiento de build y despliegue en un host.
 - [x] Entendimiento de negocio y prevención de casos
 - [x] Lista de productos dinamicos
